@@ -1,13 +1,13 @@
 {
-"name": "ASITHA-MD",
+"name": "IZUUUM-LK",
 "version": "6.0.0",
 "description": "A WhatsApp bot created using Node.js",
 "main": "start.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "start": "pm2 start start.js --deep-monitoring --attach --name IZUUUM-LK",
+    "stop": "pm2 stop IZUUUM-LK",
+    "restart": "pm2 restart IZUUUM-LK"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
